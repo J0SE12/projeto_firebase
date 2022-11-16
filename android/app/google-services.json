@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "175908622830",
+    "project_id": "projeto-jose-c120b",
+    "storage_bucket": "projeto-jose-c120b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175908622830:android:44a50447f181322a14feff",
+        "android_client_info": {
+          "package_name": "com.example.projeto_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175908622830-7kt9so3ogpqugtof1ubnjt5ik8jk7u8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBICIb0rJCt92YlIXTe3dD9zS-iRUWp2ZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175908622830-7kt9so3ogpqugtof1ubnjt5ik8jk7u8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
